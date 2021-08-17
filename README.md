@@ -2,7 +2,7 @@
 
 
 
-Estudante de JavaScript, React e Node.Js !
+Desenvolvedor JavaScript, React e Node.Js !
 
 
 
