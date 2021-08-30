@@ -2,7 +2,7 @@
 
 
 
-Desenvolvedor JavaScript, React e Node.Js !
+Profissional front-end focado no ecossistema ReactJS !
 
 
 
